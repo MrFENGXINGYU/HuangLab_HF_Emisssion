@@ -6,3 +6,4 @@ Hydrogen fluoride (HF) emissions from municipal solid waste incineration (MSWI) 
 Keywords: Municipal solid waste incineration (MSWI); Hydrogen fluoride (HF); Structural Equation Modeling (SEM); Emission Control Strategies; Machine learning
 
 <img src="Sensors positon.png" width="700" alt="Figure S1. The data collection number during the data collection process.">
+# Figure S1. The data collection number during the data collection process.
